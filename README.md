@@ -76,4 +76,4 @@ and a deep understanding of how software actually works under the hood.
 
 ## 📬 Contact
 
-📧 andy.ka@hotmail.fr · [LinkedIn](link) · Paris, France
+📧 andy.ka@hotmail.fr · [[LinkedIn](https://www.linkedin.com/in/andykammerer/)](link) · Paris, France
