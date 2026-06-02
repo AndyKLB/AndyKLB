@@ -30,27 +30,27 @@ and a deep understanding of how software actually works under the hood.
 > Full-stack web application built with a team of 5. SPA frontend, REST API backend,
 > real-time WebSockets, authentication, PostgreSQL, fully containerized with Docker Compose.
 
-### [ft_irc](link) · C++98 · TCP Sockets · OOP
+### [ft_irc](https://github.com/AndyKLB/ft_irc) · C++98 · TCP Sockets · OOP
 > A fully functional IRC server in C++98 compatible with standard IRC clients (irssi, HexChat).
 > Multi-client handling, channels, authentication, complete protocol implementation.
 
-### [minishell](link) · C · POSIX · Processes
+### [minishell](https://github.com/AndyKLB/minishell) · C · POSIX · Processes
 > A POSIX-compliant shell: lexer, parser, pipes, redirections, environment variables,
 > signal handling, built-in commands. Built in pair with rigorous code review.
 
-### [Inception](link) · Docker · NGINX · SSL/TLS
+### [Inception](https://github.com/AndyKLB/Inception) · Docker · NGINX · SSL/TLS
 > A complete containerized infrastructure: NGINX + WordPress + MariaDB with Docker Compose,
 > SSL/TLS certificates, volume persistence, isolated Docker networks.
 
-### [Philosophers](link) · C · pthreads · Mutex
+### [Philosophers](https://github.com/AndyKLB/Philosophers) · C · pthreads · Mutex
 > Classic dining philosophers problem — multithreaded C implementation with deadlock
 > prevention, race condition analysis and stress testing.
 
-### [cub3D](link) · C · Raycasting · Graphics
+### [cub3D](https://github.com/AndyKLB/cub3d) · C · Raycasting · Graphics
 > A 3D maze renderer in C using raycasting (Wolfenstein-style).
 > Real-time rendering, texture mapping, event loop, optimized memory usage. 280H project.
 
-### [Born2beroot](link) · Linux · Security · Virtualization
+### [Born2beroot] · Linux · Security · Virtualization
 > Debian/Rocky Linux VM deployment with full hardening: SSH, UFW, sudo audit,
 > password policies, LVM partitioning, cron monitoring.
 
