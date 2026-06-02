@@ -26,7 +26,7 @@ and a deep understanding of how software actually works under the hood.
 
 ## 🚀 Key Projects
 
-### [ft_transcendence](link) · TypeScript · Docker · API REST · WebSockets
+### [ft_transcendence](https://github.com/AndyKLB/ft_transcendence) · TypeScript · Docker · API REST · WebSockets
 > Full-stack web application built with a team of 5. SPA frontend, REST API backend,
 > real-time WebSockets, authentication, PostgreSQL, fully containerized with Docker Compose.
 
