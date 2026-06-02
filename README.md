@@ -4,7 +4,7 @@
 
 ---
 
-I'm a software engineering student at École 42 Paris (level 11.75/21, Common Core 100%),
+I'm a software engineering student at École 42 Paris (level 11.75/21, Common Core 100%, RNCP 7),
 specializing in systems programming, C/C++, Unix internals, and software quality.
 
 Career changer with a solid operational background — I bring rigor, autonomy,
