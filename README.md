@@ -45,17 +45,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=radical" height="130" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=radical" height="130" alt="Top languages"/>
-</div>
-
-Made with ❤️ · Focused on systems — Student @ 42 Paris. Career changer: operational background, now systems & backend engineering.
-
----
-
 ## 🚀 Projets clés
 <!-- Safe project cards: 3-column table with short lines, details below -->
 | [ft_transcendence](https://github.com/AndyKLB/ft_transcendence) | [ft_irc](https://github.com/AndyKLB/ft_irc) | [minishell](https://github.com/AndyKLB/minishell) |
