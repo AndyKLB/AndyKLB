@@ -9,9 +9,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Low-Level+%7C+Networking+%7C+Concurrent+Systems;Seeking+Internship%2FApprenticeship+2026" />
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/andykammerer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="36" height="36" style="margin:0 8px;"/></a>
-	<a href="mailto:andy.ka@hotmail.fr"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="36" height="36" style="margin:0 8px;"/></a>
-	<a href="https://profile.intra.42.fr/" style="vertical-align:middle;color:inherit;text-decoration:none;font-weight:600;margin-left:6px;">42 Paris</a>
+	<a href="https://www.linkedin.com/in/andykammerer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:andy.ka@hotmail.fr"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/-42%20Paris-000000?style=for-the-badge" alt="42 Paris"/></a>
 </p>
 
 </div>
@@ -40,14 +40,7 @@ Systems-oriented software engineering student at **42 Paris**. Former operationa
 
   *Core:* C · C++ · TypeScript · Python · Bash · Docker · PostgreSQL · NGINX · Git · WebSockets
 
-	<div style="margin-top:8px;">
-		<span style="display:inline-block;background:#2b8a3e;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">IPC</span>
-		<span style="display:inline-block;background:#2b8a3e;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">TCP/IP</span>
-		<span style="display:inline-block;background:#2b8a3e;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">Sockets</span>
-		<span style="display:inline-block;background:#2b8a3e;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">SSL/TLS</span>
-		<span style="display:inline-block;background:#2b8a3e;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">WebSocket</span>
-		<span style="display:inline-block;background:#0366d6;color:#fff;border-radius:6px;padding:4px 8px;margin:2px;font-size:12px;">CI/CD</span>
-	</div>
+  ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square) ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
 </div>
 
 ---
@@ -56,7 +49,7 @@ Systems-oriented software engineering student at **42 Paris**. Former operationa
 <!-- Safe project cards: 3-column table with short lines, details below -->
 | [ft_transcendence](https://github.com/AndyKLB/ft_transcendence) | [ft_irc](https://github.com/AndyKLB/ft_irc) | [minishell](https://github.com/AndyKLB/minishell) |
 |---|---|---|
-| Full‑stack real‑time platform · SPA · FastAPI · WebSockets<br/><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="18" style="vertical-align:middle;margin-right:6px;"/>TypeScript | RFC‑compliant IRC server · C++98 · non‑blocking I/O<br/><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="18" style="vertical-align:middle;margin-right:6px;"/>C++ | POSIX shell · lexer / parser / AST · pipes & redirections<br/><img src="https://skillicons.dev/icons?i=c" alt="C" width="18" style="vertical-align:middle;margin-right:6px;"/>C |
+| Full‑stack real‑time platform · SPA · FastAPI · WebSockets<br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> | RFC‑compliant IRC server · C++98 · non‑blocking I/O<br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B"/> | POSIX shell · lexer / parser / AST · pipes & redirections<br/><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c"/> |
 
 <details>
 <summary><strong>ft_transcendence — Details</strong></summary>
