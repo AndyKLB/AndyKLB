@@ -14,6 +14,13 @@
 	<a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/-42%20Paris-000000?style=for-the-badge" alt="42 Paris"/></a>
 </p>
 
+<!-- Contact / CV buttons -->
+<p align="center">
+  <a href="/andy_kammerer.vcf" download><img src="https://img.shields.io/badge/-Download%20vCard-6cc644?style=for-the-badge&logo=apple&logoColor=white" alt="vCard"/></a>
+  <a href="https://github.com/AndyKLB/AndyKLB/raw/main/CV_Andy_Kammerer.pdf"><img src="https://img.shields.io/badge/-Download%20CV-0b5fff?style=for-the-badge&logo=adobe&logoColor=white" alt="CV"/></a>
+  <a href="mailto:andy.ka@hotmail.fr"><img src="https://img.shields.io/badge/-Contact%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 </div>
 
 ---
@@ -42,6 +49,14 @@ Systems-oriented software engineering student at **42 Paris**. Former operationa
 
   ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square) ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
 </div>
+
+<!-- Core competencies badges -->
+<p align="center" style="margin-top:12px">
+	<img src="https://img.shields.io/badge/Performance-FF7A00?style=for-the-badge&logo=zap" alt="Performance"/>
+	<img src="https://img.shields.io/badge/Observability-6f42c1?style=for-the-badge&logo=prometheus" alt="Observability"/>
+	<img src="https://img.shields.io/badge/Concurrency-2b8a3e?style=for-the-badge&logo=threads" alt="Concurrency"/>
+	<img src="https://img.shields.io/badge/Security-DC3545?style=for-the-badge&logo=shield" alt="Security"/>
+</p>
 
 ---
 
