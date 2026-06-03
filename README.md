@@ -38,15 +38,13 @@
 	<!-- Icon row (keep only icons as requested) -->
 	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,docker,nginx,postgres,git,websocket" alt="icons" />
 
-	<!-- Network / systems badges (compact icons for items without dedicated logos) -->
-	<p style="margin-top:10px">
-		<img src="https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square" alt="IPC"/>
-		<img src="https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square" alt="TCP/IP"/>
-		<img src="https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square" alt="Sockets"/>
-		<img src="https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square" alt="SSL/TLS"/>
-		<img src="https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square" alt="WebSocket"/>
-		<img src="https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square" alt="CI/CD"/>
-	</p>
+
+IPC: ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square)  
+TCP/IP: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square)  
+Sockets: ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square)  
+SSL/TLS: ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square)  
+WebSocket: ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square)  
+CI/CD: ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
 </div>
 
 ---
@@ -57,8 +55,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=radical" height="160" alt="GitHub stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=radical" height="160" alt="Top languages"/>
 </div>
-
----
 
 ---
 Made with ❤️ · Focused on systems
