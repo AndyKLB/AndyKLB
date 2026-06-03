@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Andy%20Kammerer&fontSize=56&fontColor=58a6ff&desc=Systems%20%2F%20Backend%20Developer%20·%2042%20Paris&descSize=16&descColor=8b949e&descAlignY=55)
+![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=260&section=header&text=Andy%20Kammerer&fontSize=44&fontColor=58a6ff&desc=Systems%20%2F%20Backend%20Developer%20·%2042%20Paris&descSize=16&descColor=8b949e&descAlignY=68)
 
 <br />
 
@@ -34,48 +34,53 @@
 
 ## 🛠 Tech & Tools
 
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,linux,docker,nginx,postgres,git" />
-</p>
 
-**Core:** C · C++ · TypeScript · Python · Bash
-
-**Systems:** POSIX, threads, IPC, signals, memory management
-
-**Networking:** TCP/IP, sockets, HTTP, SSL/TLS
-
-**Backend:** FastAPI, WebSockets, PostgreSQL
-
-**DevOps:** Docker, NGINX, CI/CD, Observability (GDB, Valgrind)
+<div align="center">
+	<table>
+		<tr>
+			<td align="center" width="260">
+				<h4>Core</h4>
+				<p> <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p>
+				<p> C · C++ · TypeScript · Python · Bash</p>
+			</td>
+			<td align="center" width="260">
+				<h4>Systems & Networking</h4>
+				<p> <img src="https://img.shields.io/badge/POSIX-0A0A0A?style=flat-square"/> <img src="https://img.shields.io/badge/Threads-FF69B4?style=flat-square"/> <img src="https://img.shields.io/badge/Networking-228B22?style=flat-square"/> </p>
+				<p>POSIX · Threads · IPC · TCP/IP · Sockets · SSL/TLS</p>
+			</td>
+			<td align="center" width="260">
+				<h4>Backend & DevOps</h4>
+				<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
+				<p>FastAPI · WebSockets · PostgreSQL · Docker · NGINX · CI/CD</p>
+			</td>
+		</tr>
+	</table>
+</div>
 
 ---
 
+
 ## 📁 Projets sélectionnés
 
-<details>
-<summary><b>ft_transcendence</b> — Plateforme full‑stack temps réel</summary>
+<div style="display:flex;gap:18px;flex-wrap:wrap;justify-content:center;">
+	<div style="border-radius:12px;padding:16px;width:320px;background:linear-gradient(180deg,#0d1117, #0f1720);box-shadow:0 6px 18px rgba(0,0,0,0.6);color:#c9d1d9;">
+		<h3 style="margin:0 0 8px 0;color:#58a6ff;">ft_transcendence</h3>
+		<p style="margin:0 0 8px 0;">Full‑stack real‑time platform — FastAPI, TypeScript, WebSockets, Docker</p>
+		<p style="margin:0;font-size:13px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/> <img src="https://img.shields.io/badge/WebSockets-12B886?style=flat-square"/></p>
+	</div>
 
-- Backend: FastAPI, WebSockets
-- Frontend: TypeScript SPA
-- Infra: Docker, PostgreSQL, NGINX, Vault
+	<div style="border-radius:12px;padding:16px;width:300px;background:linear-gradient(180deg,#0d1117, #0f1720);box-shadow:0 6px 18px rgba(0,0,0,0.6);color:#c9d1d9;">
+		<h3 style="margin:0 0 8px 0;color:#58a6ff;">ft_irc</h3>
+		<p style="margin:0 0 8px 0;">RFC‑compliant IRC server in C++98 — poll() non‑blocking I/O, channels, auth</p>
+		<p style="margin:0;font-size:13px;"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/Sockets-2b8a3e?style=flat-square"/></p>
+	</div>
 
-Features: JWT auth, 2FA, real‑time multiplayer, analytics
-
-</details>
-
-<details>
-<summary><b>ft_irc</b> — Serveur IRC (C++98)</summary>
-
-- poll() non‑bloquant, gestion multi‑client, parsing RFC
-
-</details>
-
-<details>
-<summary><b>minishell</b> — Shell POSIX</summary>
-
-- Parsing complet (lexer → AST), redirections, heredoc, builtins
-
-</details>
+	<div style="border-radius:12px;padding:16px;width:300px;background:linear-gradient(180deg,#0d1117, #0f1720);box-shadow:0 6px 18px rgba(0,0,0,0.6);color:#c9d1d9;">
+		<h3 style="margin:0 0 8px 0;color:#58a6ff;">minishell</h3>
+		<p style="margin:0 0 8px 0;">POSIX shell: lexer, parser, AST, pipes & redirections, builtins</p>
+		<p style="margin:0;font-size:13px;"><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c"/> <img src="https://img.shields.io/badge/POSIX-0A0A0A?style=flat-square"/></p>
+	</div>
+</div>
 
 ---
 
