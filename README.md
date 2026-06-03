@@ -1,92 +1,103 @@
-<!-- Professional, styled README for Andy Kammerer -->
+<!-- Ultra-styled README for Andy Kammerer -->
 
 <div align="center">
 
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Andy%20Kammerer&fontSize=44&fontColor=58a6ff&desc=Systems%20%2F%20Backend%20Developer%20·%2042%20Paris&descSize=14&descColor=8b949e&descAlignY=55)
+![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Andy%20Kammerer&fontSize=56&fontColor=58a6ff&desc=Systems%20%2F%20Backend%20Developer%20·%2042%20Paris&descSize=16&descColor=8b949e&descAlignY=55)
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Low-Level+%7C+Networking+%7C+Concurrent+Systems;Looking+for+Alternance+2026" />
 
 <p align="center">
-	<img src="https://img.shields.io/badge/LinkedIn-Andy%20Kammerer-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-	<img src="https://img.shields.io/badge/Email-andy.ka%40hotmail.fr-EA4335?style=flat&logo=gmail&logoColor=white" />
-	<img src="https://img.shields.io/badge/42%20Paris-Student-000000?style=flat" />
+	<a href="https://www.linkedin.com/in/andykammerer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:andy.ka@hotmail.fr"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/-42%20Paris-000000?style=for-the-badge" alt="42 Paris"/></a>
 </p>
 
 </div>
 
-## Bonjour — Andy Kammerer
+---
 
-Étudiant en ingénierie logicielle orienté systèmes à 42 Paris. Transition professionnelle après 9 ans d'expérience opérationnelle : rigueur, autonomie et approche production-first.
+## 👋 À propos
 
-Spécialités : bas niveau, internals Unix, réseaux, systèmes concurrents et architecture backend.
+Étudiant en ingénierie logicielle orienté systèmes à **42 Paris**. Ancien opérationnel (9 ans) en reconversion vers le développement bas‑niveau et l'architecture backend. Je privilégie la robustesse, l'observabilité et la production‑readiness.
 
 ---
 
-## Quick Facts
+## 🚀 Highlights
 
-- Location: Paris, France
-- Seeking: Alternance 2026
-- Contact: andy.ka@hotmail.fr — [LinkedIn](https://www.linkedin.com/in/andykammerer)
-
----
-
-## Core Skills
-
-- Languages: C, C++ (C++98/17), TypeScript, Python, Bash
-- Systems & Concurrency: POSIX, pthreads, IPC, signals, memory management
-- Networking: TCP/IP, UDP, Sockets, HTTP, DNS, SSL/TLS
-- Backend: REST APIs, WebSockets, PostgreSQL
-- DevOps & Tools: Docker, NGINX, Git, CI/CD, GDB, Valgrind
+- Production mindset, debugging méthodique, performance et fiabilité
+- Expérience pratique : conteneurs, réseaux, services temps réel
+- Langages favoris : `C`, `C++`, `TypeScript`, `Python`
 
 ---
 
-## Selected Projects
+## 🛠 Tech & Tools
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,linux,docker,nginx,postgres,git" />
+</p>
+
+**Core:** C · C++ · TypeScript · Python · Bash
+
+**Systems:** POSIX, threads, IPC, signals, memory management
+
+**Networking:** TCP/IP, sockets, HTTP, SSL/TLS
+
+**Backend:** FastAPI, WebSockets, PostgreSQL
+
+**DevOps:** Docker, NGINX, CI/CD, Observability (GDB, Valgrind)
+
+---
+
+## 📁 Projets sélectionnés
 
 <details>
-<summary><b>ft_transcendence</b> — Full-stack, real-time platform (team)</summary>
+<summary><b>ft_transcendence</b> — Plateforme full‑stack temps réel</summary>
 
-- FastAPI backend, TypeScript frontend
-- WebSockets for real-time features (chat & games)
-- Dockerized services, PostgreSQL, NGINX
+- Backend: FastAPI, WebSockets
+- Frontend: TypeScript SPA
+- Infra: Docker, PostgreSQL, NGINX, Vault
+
+Features: JWT auth, 2FA, real‑time multiplayer, analytics
 
 </details>
 
 <details>
-<summary><b>ft_irc</b> — IRC server (C++98)</summary>
+<summary><b>ft_irc</b> — Serveur IRC (C++98)</summary>
 
-- poll()-based non-blocking I/O, RFC-compliant commands
-- Multi-client architecture and robust protocol parsing
+- poll() non‑bloquant, gestion multi‑client, parsing RFC
 
 </details>
 
 <details>
-<summary><b>minishell</b> — POSIX shell</summary>
+<summary><b>minishell</b> — Shell POSIX</summary>
 
-- Lexer/Parser/AST, pipes & redirections, heredoc
-- Signal handling and builtin commands
+- Parsing complet (lexer → AST), redirections, heredoc, builtins
 
 </details>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=github_dark" height="150" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=github_dark" height="150" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=radical" height="160" alt="GitHub stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=radical" height="160" alt="Top languages"/>
 </div>
 
 ---
 
-## Philosophy
+## 📬 Contact
 
-Make it work — Make it right — Make it fast.
+- Email: andy.ka@hotmail.fr
+- LinkedIn: https://www.linkedin.com/in/andykammerer
 
-- Reliable software over clever hacks
-- Understand systems, not just tools
-- Debug with method, not hope
+Si tu veux, j'ajoute une carte de contact (vCard), mon CV PDF, ou un bouton pour télécharger le CV.
 
 ---
 
-Built with focus · Powered by curiosity · Driven by systems
+Made with ❤️ · Focused on systems
 
 I'm a software engineering student at École 42 Paris (level 11.75/21, Common Core 100%, RNCP 7),
 specializing in systems programming, C/C++, Unix internals, and software quality.
