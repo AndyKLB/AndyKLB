@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Low-Level+%7C+Networking+%7C+Concurrent+Systems;Looking+for+Alternance+2026" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Low-Level+%7C+Networking+%7C+Concurrent+Systems;Looking+for+Alternance/Stage+2026" />
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/andykammerer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -38,13 +38,9 @@
 	<!-- Icon row (keep only icons as requested) -->
 	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,docker,nginx,postgres,git,websocket" alt="icons" />
 
+  *Core:* C · C++ · TypeScript · Python · Bash · Docker · PostgreSQL · NGINX · Git · WebSockets
 
-IPC: ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square)  
-TCP/IP: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square)  
-Sockets: ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square)  
-SSL/TLS: ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square)  
-WebSocket: ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square)  
-CI/CD: ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
+  ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square) ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
 </div>
 
 ---
@@ -52,18 +48,11 @@ CI/CD: ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-s
 ## 📊 GitHub
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=radical" height="160" alt="GitHub stats"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=radical" height="160" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankammer&show_icons=true&theme=radical" height="130" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankammer&layout=compact&theme=radical" height="130" alt="Top languages"/>
 </div>
 
----
-Made with ❤️ · Focused on systems
-
-I'm a software engineering student at École 42 Paris (level 11.75/21, Common Core 100%, RNCP 7),
-specializing in systems programming, C/C++, Unix internals, and software quality.
-
-Career changer with a solid operational background — I bring rigor, autonomy,
-and a deep understanding of how software actually works under the hood.
+Made with ❤️ · Focused on systems — Student @ 42 Paris. Career changer: operational background, now systems & backend engineering.
 
 ---
 
