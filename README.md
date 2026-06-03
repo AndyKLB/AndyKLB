@@ -72,34 +72,41 @@ and a deep understanding of how software actually works under the hood.
 ---
 
 ## 🚀 Projets clés
+<!-- Safe project cards: 3-column table with short lines, details below -->
+| [ft_transcendence](https://github.com/AndyKLB/ft_transcendence) | [ft_irc](https://github.com/AndyKLB/ft_irc) | [minishell](https://github.com/AndyKLB/minishell) |
+|---|---|---|
+| Full‑stack real‑time platform · SPA · FastAPI · WebSockets<br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> | RFC‑compliant IRC server · C++98 · non‑blocking I/O<br/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B"/> | POSIX shell · lexer / parser / AST · pipes & redirections<br/><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c"/> |
 
-<div align="center">
-	<table>
-		<tr>
-			<td style="padding:8px;vertical-align:top;">
-				<div style="border-radius:10px;padding:14px;width:320px;background:#0b1220;color:#c9d1d9;">
-					<h4 style="margin:0;color:#58a6ff;">ft_transcendence</h4>
-					<p style="margin:6px 0 10px 0;font-size:13px;">Full‑stack real‑time platform — SPA + FastAPI + WebSockets</p>
-					<p style="margin:0;font-size:12px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/> <img src="https://img.shields.io/badge/WebSockets-12B886?style=flat-square"/></p>
-				</div>
-			</td>
-			<td style="padding:8px;vertical-align:top;">
-				<div style="border-radius:10px;padding:14px;width:320px;background:#0b1220;color:#c9d1d9;">
-					<h4 style="margin:0;color:#58a6ff;">ft_irc</h4>
-					<p style="margin:6px 0 10px 0;font-size:13px;">RFC‑compliant IRC server in C++98 — non‑blocking I/O, channels</p>
-					<p style="margin:0;font-size:12px;"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/Sockets-2b8a3e?style=flat-square"/></p>
-				</div>
-			</td>
-			<td style="padding:8px;vertical-align:top;">
-				<div style="border-radius:10px;padding:14px;width:320px;background:#0b1220;color:#c9d1d9;">
-					<h4 style="margin:0;color:#58a6ff;">minishell</h4>
-					<p style="margin:6px 0 10px 0;font-size:13px;">POSIX shell: lexer → parser → AST, pipes, redirections</p>
-					<p style="margin:0;font-size:12px;"><img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c"/> <img src="https://img.shields.io/badge/POSIX-0A0A0A?style=flat-square"/></p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
+<details>
+<summary><strong>ft_transcendence — Détails</strong></summary>
+
+Full‑stack web application developed in team. Highlights:
+
+- SPA frontend (TypeScript)
+- Backend: FastAPI, REST API + WebSockets for real‑time features
+- Auth, PostgreSQL, Docker Compose for local orchestration
+- CI: tests + linting, deployment scripts
+
+</details>
+
+<details>
+<summary><strong>ft_irc — Détails</strong></summary>
+
+- IRC server implemented in C++98
+- Non‑blocking I/O (poll), multi‑client concurrency, channel management
+- Full protocol parsing compatible with standard clients
+- Emphasis on correct socket handling and robustness tests
+
+</details>
+
+<details>
+<summary><strong>minishell — Détails</strong></summary>
+
+- POSIX‑compliant shell: lexer → parser → AST
+- Redirections, pipes, builtins, signal handling
+- Focus on correct parsing and stable process control
+
+</details>
 
 ---
 
