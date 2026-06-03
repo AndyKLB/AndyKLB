@@ -36,9 +36,9 @@ Systems-oriented software engineering student at **42 Paris**. Former operationa
 
 <div align="center">
 	<!-- Icon row (keep only icons as requested) -->
-	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,docker,nginx,postgres,git,websocket" alt="icons" />
+	<img src="https://skillicons.dev/icons?i=c,cpp,ts,python,bash,docker,nginx,postgres,git" alt="icons" />
 
-  *Core:* C · C++ · TypeScript · Python · Bash · Docker · NGINX · PostgreSQL · Git · WebSockets
+  *Core:* C · C++ · TypeScript · Python · Bash · Docker · NGINX · PostgreSQL · Git
 
   ![IPC](https://img.shields.io/badge/IPC-IPC-2b8a3e?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-TCP%2FIP-2b8a3e?style=flat-square) ![Sockets](https://img.shields.io/badge/Sockets-Sockets-2b8a3e?style=flat-square) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-SSL%2FTLS-2b8a3e?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-WebSocket-2b8a3e?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-CI%2FCD-0366d6?style=flat-square)
 </div>
